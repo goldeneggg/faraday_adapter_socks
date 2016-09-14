@@ -1,0 +1,14 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+vendor/bundle
+
+# vim swap files
+[._]*.sw[a-z]
+[._]sw[a-z]
