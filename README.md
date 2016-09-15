@@ -1,4 +1,5 @@
-# FaradayAdapterSocks
+FaradayAdapterSocks [![Build Status](https://travis-ci.org/goldeneggg/faraday_adapter_socks.svg?branch=master)](https://travis-ci.org/goldeneggg/faraday_adapter_socks)
+==========
 
 Faraday adapter for socks proxy
 
