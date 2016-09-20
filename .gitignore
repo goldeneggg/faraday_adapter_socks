@@ -8,6 +8,7 @@
 /spec/reports/
 /tmp/
 vendor/bundle
+*.gem
 
 # vim swap files
 [._]*.sw[a-z]
