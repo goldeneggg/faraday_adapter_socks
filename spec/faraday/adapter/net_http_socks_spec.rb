@@ -4,8 +4,8 @@ describe Faraday::Adapter::NetHttpSocks do
   describe 'setup' do
     it 'should have 3 SOCKS_SCHEMES' do
       schemes = Faraday::Adapter::NetHttpSocks::SOCKS_SCHEMES
-      expect(schemes.size).to eq(3)
-      expect(schemes).to eq(['socks', 'socks4', 'socks5'])
+      expect(schemes.size).to eq(4)
+      expect(schemes).to eq(['socks', 'socks4', 'socks5', 'socks5h'])
     end
   end
 
